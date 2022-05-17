@@ -2,6 +2,9 @@ import streamlit
 
 streamlit.title('My parents healthy new diner')
 
-streamlit.title('it was a pleasant day to start with!')
-
-streamlit.text('day started with cup of tea and loaf of bread.')
+streamlit.header('Breakfast Menu')
+streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avakado toast')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
